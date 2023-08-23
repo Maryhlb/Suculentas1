@@ -1,0 +1,68 @@
+root {
+    --cor-de-fundo: #BAFFA9;
+    --branco-principal: #FFFFFF;
+    
+    --fonte-principal: "Lugrasimo";
+    --fonte-secundario: "Playfair Display";
+}
+body{background-color: #BAFFA9;
+  
+    
+
+}
+
+.container__caixa{
+    font-size: 70px;
+    color: #FFFFFF;
+    text-align: center;
+    margin: 1em 0 1em 0;
+    border: 5px solid #FFFFFF
+}
+
+.container__caixa2{
+    font-size: 20px;
+    padding: 50px;
+    text-align: justify;
+    font-family: Playfair Display;
+    border-radius: 5px;
+    border: 3px solid #FFFFFF;
+    display: inline-block;
+    width: 50%;
+    margin: 1em 30px 1em 4em;
+        
+}   
+    
+     
+.container__imagem{ 
+     width: 300px; 
+     padding: 30px;  
+     display: inline;
+     
+
+
+}
+
+img{
+
+    width: 400px;
+    margin-left: 100px;
+    
+    
+    }
+
+
+
+.container__caixa3{
+
+    font-size: 20px;
+    padding: 50px;
+    text-align: justify;
+    font-family: Playfair Display;
+    border-radius: 5px;
+    border: 3px solid #FFFFFF;
+    display: inline-block;
+    width: 50%;
+    margin: 1em 0 1em 20em;
+
+
+}
